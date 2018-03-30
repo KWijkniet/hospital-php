@@ -1,0 +1,62 @@
+.clientList{
+    clear: both;
+    margin: 0;
+    margin-left: 10px;
+    overflow-y: auto;
+    min-height: 49vh;
+    max-height: 49vh;
+}
+
+.speciesList{
+    clear: both;
+    margin: 0;
+    margin-left: 10px;
+    overflow-y: auto;
+    min-height: 49vh;
+    max-height: 49vh;
+}
+
+.patientList{
+    margin-top: 10px;
+    margin-right: 10px;
+    overflow-y: auto;
+    margin-left: 16vw;
+    min-height: 98vh;
+    max-height: 98vh;
+}
+
+.hover:hover{
+    background-color: #ececec !important;
+}
+
+.felt{
+    float: left;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    float: right;
+}
+
+.number{
+    display: inline;
+    margin-right: 10px;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
+.icon{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.hiddenButton{
+    border:none;
+    background: none;
+    outline: none;
+}
